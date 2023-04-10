@@ -1,1 +1,1 @@
-alert("welcome to Hopeworld");
+document.write("welcome to Hopeworld");
