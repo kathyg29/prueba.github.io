@@ -1,1 +1,1 @@
-document.write("No te rindas :)")
+document.write("You can do it, No te rindas :)");
