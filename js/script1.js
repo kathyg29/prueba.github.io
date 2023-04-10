@@ -1,1 +1,2 @@
-alert("hello world");
+alert("welcome to World hope");
+document.write("I am Hobi");
